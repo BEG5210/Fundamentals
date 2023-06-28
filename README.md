@@ -1,2 +1,2 @@
 # Fundamentals
-A repository for my VR game. this is my first serious project, and i LITERALLY have no idea what im doing. im hoping to share my adventure from just starting out to making somewhat of a intresting VR game.
+This page is a repository for my VR game, and a documentation and recording of my progress. This is my first serious project (or development project project for that matter), and as of writing this, I LITERALLY have no idea what im doing. so im going to keep a log of my general thaughts and ideas each day, as well as what i worked on each day. I'm hoping to share my adventure from just starting out to making somewhat of a intresting VR game.
